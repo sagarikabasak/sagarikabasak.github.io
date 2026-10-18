@@ -50,6 +50,10 @@ Physical Review B 114, 074108
 
 PRB ↗
 
+## Publication 1 preprint
+
+[arXiv:2607.25005 (open-access manuscript)](https://arxiv.org/abs/2607.25005)
+
 ## Publication 2 URL
 
 https://doi.org/10.1103/wl94-p2cd
