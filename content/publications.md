@@ -78,6 +78,10 @@ Physical Review B 112, 235414
 
 PRB ↗
 
+## Publication 2 preprint
+
+[arXiv:2502.17171 (open-access manuscript)](https://arxiv.org/abs/2502.17171)
+
 ## Publication 3 URL
 
 https://doi.org/10.1103/PhysRevA.108.063315
@@ -101,6 +105,10 @@ Physical Review A 108, 063315
 ## Journal label 3
 
 PRA ↗
+
+## Publication 3 preprint
+
+[arXiv:2306.01230 (open-access manuscript)](https://arxiv.org/abs/2306.01230)
 
 ## Publication 4 URL
 
@@ -126,6 +134,10 @@ Physical Review A 104, 053326
 
 PRA ↗
 
+## Publication 4 preprint
+
+[arXiv:2106.00179 (open-access manuscript)](https://arxiv.org/abs/2106.00179)
+
 ## Publication 5 URL
 
 https://doi.org/10.1103/PhysRevLett.120.123204
@@ -149,3 +161,7 @@ Physical Review Letters 120, 123204
 ## Journal label 5
 
 PRL ↗
+
+## Publication 5 preprint
+
+[arXiv:1707.01956 (open-access manuscript)](https://arxiv.org/abs/1707.01956)

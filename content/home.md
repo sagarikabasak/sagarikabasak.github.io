@@ -150,6 +150,10 @@ Quantum transport in the one-dimensional Hubbard model: Drude weights and Seebec
 
 Luo · Basak · Pu · Guan
 
+## Publication 2 preprint
+
+[arXiv:2502.17171 (open-access manuscript)](https://arxiv.org/abs/2502.17171)
+
 ## Publication 3 URL
 
 https://doi.org/10.1103/PhysRevA.108.063315
@@ -165,6 +169,10 @@ Generalized effective spin-chain formalism for strongly interacting spinor gases
 ## Home bibliography authors 3
 
 Basak · Pu
+
+## Publication 3 preprint
+
+[arXiv:2306.01230 (open-access manuscript)](https://arxiv.org/abs/2306.01230)
 
 ## Section kicker text 3
 
