@@ -32,7 +32,7 @@ Download CV
 
 ## CV date and page count
 
-8 pages · Updated August 3, 2026
+6 pages · Updated November 25, 2026
 
 ## Academic timeline date
 
